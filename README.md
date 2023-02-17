@@ -7,16 +7,16 @@
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=AllureLove98&count_private=true&show_icons=true&theme=vue-dark&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AllureLove98&count_private=true&show_icons=true&theme=vue-dark&locale=en" />
 </a>
 
-<br>
+<hr>
 <a href="https://git.io/streak-stats">
-  <img align="middle" src="https://streak-stats.demolab.com?user=AllureLove98&theme=vue-dark&locale=en&date_format=%5BY.%5Dn.j" />
+  <img align="center" src="https://streak-stats.demolab.com?user=AllureLove98&theme=vue-dark&locale=en&date_format=%5BY.%5Dn.j" />
 </a>
 
-<br>
+<hr>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img align="middle" src="https://github-readme-activity-graph.cyclic.app/graph?username=AllureLove98&theme=vue" />
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=AllureLove98&theme=vue" />
 </a>
