@@ -6,7 +6,15 @@
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllureLove98&count_private=true&show_icons=true&theme=vue-dark&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=AllureLove98&theme=vue-dark&locale=en&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=AllureLove98&count_private=true&show_icons=true&theme=vue-dark&locale=en" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="right" src="https://streak-stats.demolab.com?user=AllureLove98&theme=vue-dark&locale=en&date_format=%5BY.%5Dn.j" />
+</a>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AllureLove98&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
