@@ -10,7 +10,7 @@
   <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=AllureLove98&count_private=true&show_icons=true&theme=vue-dark&locale=en" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="right" src="https://streak-stats.demolab.com?user=AllureLove98&theme=vue-dark&locale=en&date_format=%5BY.%5Dn.j" />
+  <img align="bottom" src="https://streak-stats.demolab.com?user=AllureLove98&theme=vue-dark&locale=en&date_format=%5BY.%5Dn.j" />
 </a>
 <br>
 
