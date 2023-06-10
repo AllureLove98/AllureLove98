@@ -18,5 +18,5 @@
 <hr>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=AllureLove98&theme=vue" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AllureLove98&theme=vue" />
 </a>
